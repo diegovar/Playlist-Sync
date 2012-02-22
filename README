@@ -1,4 +1,4 @@
 To use:
 node sync.js [name of m3u file] [path of source files in m3u file] [destination folder]
 
-Make sure both paths end in a /.
+Make sure both paths end in a /
